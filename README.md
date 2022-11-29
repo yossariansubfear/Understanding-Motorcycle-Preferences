@@ -27,14 +27,14 @@ After looking at this plot, we can see that either 3 or 4 components should be e
 
 ### Extracting the factors
 fact_model_1 = factanal(motorcycle, factors = 3)
-facr_model_1
+fact_model_1
 
 After looking at the results, specifically, at the proportion of variance explained by the each factor, we can see that Factor 3 accounts for a mere 9.4 % variance explained. It means it does not help us understand the consumer preferences any better. The cumulative variance explained by first two factors is 57 %, and the p-value is 0.235. So, there is a lot of scope for improvement.
 
 Let's try 4 factors and see if this can indeed be improved.
 
 fact_model_2 = factanal(motorcycle, factors = 4)
-facr_model_2
+fact_model_2
 
 Here, similar to the earlier result, even if there are 4 factors Factor 4 accounts only for 8.4 % variance explained. So, we can ignore the Factor 4, and consider only first 3 factors. These 3 combined give a cumulative value of 72.1 % for the variance explained, with p-value of 0.542. While not the best, this result is lot better than the earlier one and we can go forward with these 3 factors for our analysis.
 
