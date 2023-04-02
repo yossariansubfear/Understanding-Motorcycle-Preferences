@@ -3,6 +3,7 @@
 
 
 ##### The data used for this analysis is collected by a two wheeler producer specifically for this management objective.  
+
 Initially, a preliminary research was conducted and a detailed set of variables that could influence Consumer preferences were identified.  
 These parameters were then converted into a Questionnaire in the form of statements.  
 Respondents were asked to provide their responses to each statement on a 7 point Likert Scale (1= Strongly Agree; 7 = Strongly Disagree).  
