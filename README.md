@@ -1,8 +1,7 @@
 # Understanding-Motorcycle-Preferences (Using Factor Analysis)
 ### Analysis for a 2 wheeler producer to understand the major Factors influencing Consumer preferences for Motorcycles:  
 
-
-##### The data used for this analysis is collected by a two wheeler producer specifically for this management objective.  
+The data used for this analysis is collected by a two wheeler producer specifically for this management objective.  
 
 Initially, a preliminary research was conducted and a detailed set of variables that could influence Consumer preferences were identified.  
 These parameters were then converted into a Questionnaire in the form of statements.  
@@ -27,7 +26,8 @@ Q9. I think 2W are a safe way to travel.
 Q10. 3 people should be legally allowed to travel on a 2W. 
 
 
-Please go through the code, analysis, and plots to understand how I got to this conclusion:  
+### Please go through the code, analysis, and plots to understand how I got to this conclusion:
+
 As can be seen from the output, Factor 1 has high loading values for the ##variables "Mans_Veh", "Powerful", Frnds_Jls", and "Ads_Feel_Good".  
 Based on what ##these variables represent in the original survey statements, we can create a ##profile for this factor.  
 Factor 1 represents that a 2 wheeler is a man's ##vehicle, it makes them feel powerful, makes their friends jealous,   
