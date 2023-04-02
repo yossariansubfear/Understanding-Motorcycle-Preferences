@@ -6,17 +6,25 @@
 
 Initially, a preliminary research was conducted and a detailed set of variables that could influence Consumer preferences were identified.  
 These parameters were then converted into a Questionnaire in the form of statements.  
+
 Respondents were asked to provide their responses to each statement on a 7 point Likert Scale (1= Strongly Agree; 7 = Strongly Disagree).  
 Following are the statements used for this purpose:
 
-Q1. I use a 2W because it is affordable
-Q2. It gives me a sense of freedom to own a 2W
-Q3. Low maintenance cost makes it economical in the long run Q4. 2W is man’s vehicle essentially
-Q5. I feel powerful on my 2W
-Q6. Some of my friends who don’t have a 2W are jealous of me Q7. I feel good when I see ads for my 2W
-Q8. My 2W gives me comfortable ride
-Q9. I think 2W are a safe way to travel
-Q10. 3 people should be legally allowed to travel on a 2W
+Q1. I use a 2W because it is affordable 
+
+Q2. It gives me a sense of freedom to own a 2W 
+
+Q3. Low maintenance cost makes it economical in the long run Q4. 2W is man’s vehicle essentially. 
+
+Q5. I feel powerful on my 2W 
+
+Q6. Some of my friends who don’t have a 2W are jealous of me Q7. I feel good when I see ads for my 2W 
+
+Q8. My 2W gives me comfortable ride 
+
+Q9. I think 2W are a safe way to travel. 
+
+Q10. 3 people should be legally allowed to travel on a 2W. 
 
 
 Please go through the code, analysis, and plots to understand how I got to this conclusion:  
