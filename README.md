@@ -35,4 +35,12 @@ Following are the statements used for this purpose:
     3. For the Factor 3, the loading values for the variables "Affordable", "Maint_Cost", and "Legal_3" are high.  
     It shows that Factor 3 is made up of the following attributes- a two wheeler being affordable, having low maintenance   
     cost, and advocacy for allowing 3 people on a two wheeler. Overall, this factor ##represents budget and economical considerations.  
-    Let's name it "Economy".
+    Let's name it "Economy".  
+    
+    Scree plot to finalize number for factors to extract:  
+    
+            <img src="/"   
+            
+    Final factor loadings to identify and name extracted factors:  
+    
+            <img src=""
