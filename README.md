@@ -39,7 +39,7 @@ Following are the statements used for this purpose:
     
 Scree plot to finalize the number for factors to extract:  
     
-   <img src="/Motorycycle_preferences_plot.png" width=50% height=50%> 
+   <img src="/Motorycycle_preferences_scree_plot (1).png" width=50% height=50%> 
             
 Final factor loadings to identify and name extracted factors:  
     
