@@ -37,10 +37,10 @@ Following are the statements used for this purpose:
     cost, and advocacy for allowing 3 people on a two wheeler. Overall, this factor ##represents budget and economical considerations.  
     Let's name it "Economy".  
     
-    Scree plot to finalize the number for factors to extract:  
+Scree plot to finalize the number for factors to extract:  
     
             <img src="/Motorycycle_preferences_plot.png" width=50% height=50%> 
             
-    Final factor loadings to identify and name extracted factors:  
+Final factor loadings to identify and name extracted factors:  
     
             <img src="/PCA_motorcycle_loadings.png" width = 50% height=50%>
